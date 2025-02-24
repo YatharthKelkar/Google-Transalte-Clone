@@ -34,9 +34,6 @@ API: Google Translate API / LibreTranslate API
 
 UI Framework: Bootstrap / Tailwind CSS
 
-<h2>📸 Screenshots</h2>
-
-
 <h2>🚀 Installation & Setup</h2>
 
 Follow these steps to set up the project locally:
