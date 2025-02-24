@@ -120,7 +120,7 @@ Guest Contributor
 For any queries, feel free to reach out:
 
 <h2>📧 Email: </h2>
-Primary Email : kelkaryatharth@gmail.com
-Seccondary Email : kelkaryatharth1@gmail.com
+<h3>Primary Email : kelkaryatharth@gmail.com</h3>
+<h3>Seccondary Email : kelkaryatharth1@gmail.com</h3>
 
 🔥 Star this repository if you found it useful!
