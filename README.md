@@ -1,4 +1,4 @@
-<h1>Google Translate Clone</h1>
+<h1>Translator</h1>
 
 <h2>🚀 Introduction</h2>
 
