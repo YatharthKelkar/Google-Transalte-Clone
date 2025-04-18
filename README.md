@@ -2,7 +2,7 @@
 
 <h2>🚀 Introduction</h2>
 
-Welcome to the Google Translate Clone! This project is a fully functional translation web application that mimics the core features of Google Translate, allowing users to translate text between multiple languages instantly. Built with modern web technologies, this clone provides a seamless and intuitive experience for users who need real-time language translation.
+Welcome to the Translator! This project is a fully functional translation web application that mimics the core features of Google Translate, allowing users to translate text between multiple languages instantly. Built with modern web technologies, this clone provides a seamless and intuitive experience for users who need real-time language translation.
 
 <h2>🎯 Features</h2>
 
@@ -11,8 +11,6 @@ Welcome to the Google Translate Clone! This project is a fully functional transl
 🔄 Auto-Detection - Automatically detects the input language.
 
 ⚡ Instant Translation - Get real-time translations as you type.
-
-🗣 Text-to-Speech - Listen to translations for better pronunciation.
 
 📋 Copy to Clipboard - Easily copy translated text.
 
